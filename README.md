@@ -82,3 +82,5 @@ Fetches historical analysis data.
 ## 🛠 Future Improvements
 - **Earth Engine Integration**: The `analysis.service.js` has placeholders for GEE authentication and `ee.ImageCollection` filtering.
 - **Real-time Processing**: Replace mock `calculateRisk()` with actual spectral index calculation (NDVI/NDWI).
+
+notepad README.md
