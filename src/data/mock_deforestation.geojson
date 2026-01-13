@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Aravalli Range - Simulated Deforestation Zone",
+        "district": "Gurugram"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0123,
+              28.4501
+            ],
+            [
+              77.0250,
+              28.4501
+            ],
+            [
+              77.0280,
+              28.4650
+            ],
+            [
+              77.0100,
+              28.4620
+            ],
+            [
+              77.0123,
+              28.4501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aravalli Biodiversity Park Buffer",
+        "district": "New Delhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1400,
+              28.5500
+            ],
+            [
+              77.1550,
+              28.5520
+            ],
+            [
+              77.1500,
+              28.5600
+            ],
+            [
+              77.1350,
+              28.5580
+            ],
+            [
+              77.1400,
+              28.5500
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
